@@ -83,7 +83,7 @@ cucumber -p default
 para rodar a automação separadamente é necessário digitar o seguinte código:
 
 ```bash
-cucumber -p default -t```nome```
+cucumber -p default -t "tag"
 ```
 
 ```bash
