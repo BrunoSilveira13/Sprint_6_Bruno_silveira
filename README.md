@@ -99,7 +99,8 @@ cucumber -p default -t```nome```
 ```
 
 ## *Agradecimentos especiais*
-Desde ja quero agradecer pela oportunidade que tive de aprender algo novo nesse processo de bolsas, foi um prazer fazer parte disso e me aproximar mais de pessoas novas 
+Desde ja quero agradecer pela oportunidade que tive de aprender algo novo nesse processo de bolsas, foi um prazer fazer parte disso e me aproximar mais de pessoas novas.
+
 Queria também agradecer muito aos meus colegas que fazem estagio comigo, em especial Gabriel Vanz, ele me ajudou muito nesse projéto e posso falar com convição que sem ele talvez eu não conseguiria entregar esse projeto a tempo. 
 
 ## Autor
